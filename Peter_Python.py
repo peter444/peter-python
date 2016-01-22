@@ -10,4 +10,4 @@ animal= raw_input("what is your favorite animal?") '
 food1= raw_input("what Do you like to eat?")
 food2=raw_input("what do you not like to eat?")
 print name + " had a " + size +" " + animal
-print name + “ likes to eat an+ apple “ +
+print name + “ likes to eat an” + food1 
