@@ -11,3 +11,4 @@ food1= raw_input("what Do you like to eat?")
 food2=raw_input("what do you not like to eat?")
 print name + " had a " + size +" " + animal
 print name + “ likes to eat an” + food1 
+print “have a nice day”
